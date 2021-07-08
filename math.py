@@ -1,15 +1,11 @@
-#Add implementation
 def add(x,y):
-	return x+y
-#subtract implementation
+	pass
+
 def subtract(x,y):
-	return x-y
-#multiply implementation
+	pass
+
 def mutiply(x,y):
-	return x*y
-#divide implementation
+	pass
+
 def divide(x,y):
-	if y==0:
-		return error
-	else:
-		return x/y
+	pass
